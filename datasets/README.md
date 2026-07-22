@@ -1,7 +1,7 @@
 # Descriptions of the datasets used to evaluate SubGraphia
-- See table 1
+- See table 1:
 | Metagenome          | Origin    | References |  Reads | Accession   |
-| ------------------- | --------- | ---------: | -----: | ----------- |
+| ------------------- | --------- | --------- | ----- | ----------- |
 | ZymoBIOMICS         | mock      |         10 |   8.7M | ERR2984773  |
 | Gut                 | simulated |         76 |  30.0M | NA          |
 | Environmental       | mock      |        227 | 286.8M | ERR5321934  |

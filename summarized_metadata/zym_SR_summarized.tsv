@@ -1,0 +1,146 @@
+ARO	tax_ID_names	path_length	dataset	path_id
+3000026inst1		10316.0	ZymoBIOMICS Mock Community	3000026inst1_gene_seq
+3000027inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	35579.0	ZymoBIOMICS Mock Community	3000027inst1_path_2
+3000074inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	36385.5	ZymoBIOMICS Mock Community	3000074inst1_path_10
+3000149inst1		12332.0	ZymoBIOMICS Mock Community	3000149inst1_gene_seq
+3000179inst1		6422.0	ZymoBIOMICS Mock Community	3000179inst1_gene_seq
+3000198inst1		8400.0	ZymoBIOMICS Mock Community	3000198inst1_gene_seq
+3000206inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	52765.0	ZymoBIOMICS Mock Community	3000206inst1_path_2
+3000216inst1		3204.0	ZymoBIOMICS Mock Community	3000216inst1_gene_seq
+3000237inst1		4289.0	ZymoBIOMICS Mock Community	3000237inst1_gene_seq
+3000254inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	52765.0	ZymoBIOMICS Mock Community	3000254inst1_path_2
+3000263inst1		9673.0	ZymoBIOMICS Mock Community	3000263inst1_gene_seq
+3000300inst1		18506.0	ZymoBIOMICS Mock Community	3000300inst1_gene_seq
+3000377inst1		19171.0	ZymoBIOMICS Mock Community	3000377inst1_gene_seq
+3000378inst1		19171.0	ZymoBIOMICS Mock Community	3000378inst1_gene_seq
+3000379inst1		19171.0	ZymoBIOMICS Mock Community	3000379inst1_gene_seq
+3000421inst1		25077.0	ZymoBIOMICS Mock Community	3000421inst1_gene_seq
+3000491inst1		9243.0	ZymoBIOMICS Mock Community	3000491inst1_gene_seq
+3000499inst1		3767.0	ZymoBIOMICS Mock Community	3000499inst1_gene_seq
+3000502inst1		9060.0	ZymoBIOMICS Mock Community	3000502inst1_gene_seq
+3000504inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	48414.0	ZymoBIOMICS Mock Community	3000504inst1_path_22_trimmed
+3000508inst1		7778.0	ZymoBIOMICS Mock Community	3000508inst1_gene_seq
+3000516inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	37192.0	ZymoBIOMICS Mock Community	3000516inst1_path_10
+3000518inst1		2695.0	ZymoBIOMICS Mock Community	3000518inst1_gene_seq
+3000565inst1		5979.0	ZymoBIOMICS Mock Community	3000565inst1_gene_seq
+3000656inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	33654.0	ZymoBIOMICS Mock Community	3000656inst1_path_58
+3000676inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	10977.0	ZymoBIOMICS Mock Community	3000676inst1_path_32_trimmed
+3000746inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	72129.0	ZymoBIOMICS Mock Community	3000746inst1_path_41
+3000789inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	48414.0	ZymoBIOMICS Mock Community	3000789inst1_path_22_trimmed
+3000790inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	48414.0	ZymoBIOMICS Mock Community	3000790inst1_path_22_trimmed
+3000791inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	48414.0	ZymoBIOMICS Mock Community	3000791inst1_path_22_trimmed
+3000792inst1		21273.0	ZymoBIOMICS Mock Community	3000792inst1_gene_seq
+3000793inst1		21273.0	ZymoBIOMICS Mock Community	3000793inst1_gene_seq
+3000794inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	84912.0	ZymoBIOMICS Mock Community	3000794inst1_path_1
+3000795inst1		7778.0	ZymoBIOMICS Mock Community	3000795inst1_gene_seq
+3000796inst1		7778.0	ZymoBIOMICS Mock Community	3000796inst1_gene_seq
+3000800inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	55442.0	ZymoBIOMICS Mock Community	3000800inst1_path_17_trimmed
+3000801inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	27661.0	ZymoBIOMICS Mock Community	3000801inst1_path_17_trimmed
+3000802inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	55368.0	ZymoBIOMICS Mock Community	3000802inst1_path_9_trimmed
+3000803inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	42673.0	ZymoBIOMICS Mock Community	3000803inst1_path_23_trimmed
+3000804inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	97065.0	ZymoBIOMICS Mock Community	3000804inst1_path_9
+3000805inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	57175.0	ZymoBIOMICS Mock Community	3000805inst1_path_16
+3000806inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	21675.0	ZymoBIOMICS Mock Community	3000806inst1_path_10_trimmed
+3000807inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	21675.0	ZymoBIOMICS Mock Community	3000807inst1_path_10_trimmed
+3000808inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	15350.0	ZymoBIOMICS Mock Community	3000808inst1_path_2_trimmed
+3000809inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	21675.0	ZymoBIOMICS Mock Community	3000809inst1_path_14_trimmed
+3000815inst1		11080.0	ZymoBIOMICS Mock Community	3000815inst1_gene_seq
+3000823inst1		28614.0	ZymoBIOMICS Mock Community	3000823inst1_gene_seq
+3000826inst1		4132.0	ZymoBIOMICS Mock Community	3000826inst1_gene_seq
+3000830inst1		5046.0	ZymoBIOMICS Mock Community	3000830inst1_gene_seq
+3000832inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	52765.0	ZymoBIOMICS Mock Community	3000832inst1_path_2
+3000833inst1		14234.0	ZymoBIOMICS Mock Community	3000833inst1_gene_seq
+3000838inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	46481.0	ZymoBIOMICS Mock Community	3000838inst1_path_9
+3000839inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	46481.0	ZymoBIOMICS Mock Community	3000839inst1_path_9
+3001214inst1		23494.0	ZymoBIOMICS Mock Community	3001214inst1_gene_seq
+3001216inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	40162.0	ZymoBIOMICS Mock Community	3001216inst1_path_9
+3001327inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	3603.0	ZymoBIOMICS Mock Community	3001327inst1_path_10_trimmed
+3001328inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	30981.0	ZymoBIOMICS Mock Community	3001328inst1_path_10
+3001329inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	21835.0	ZymoBIOMICS Mock Community	3001329inst1_path_1_trimmed
+3002571inst1		32112.0	ZymoBIOMICS Mock Community	3002571inst1_gene_seq
+3002623inst1		6422.0	ZymoBIOMICS Mock Community	3002623inst1_gene_seq
+3002645inst1		52749.0	ZymoBIOMICS Mock Community	3002645inst1_gene_seq
+3002679inst1		23656.0	ZymoBIOMICS Mock Community	3002679inst1_gene_seq
+3002813inst1		15471.0	ZymoBIOMICS Mock Community	3002813inst1_gene_seq
+3002865inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	46481.0	ZymoBIOMICS Mock Community	3002865inst1_path_9
+3002875inst1		11566.0	ZymoBIOMICS Mock Community	3002875inst1_gene_seq
+3002877inst1		1919.0	ZymoBIOMICS Mock Community	3002877inst1_gene_seq
+3002926inst1		6624.0	ZymoBIOMICS Mock Community	3002926inst1_gene_seq
+3002985inst1		7762.0	ZymoBIOMICS Mock Community	3002985inst1_gene_seq
+3002986inst1		8054.0	ZymoBIOMICS Mock Community	3002986inst1_gene_seq
+3003006inst1		3771.0	ZymoBIOMICS Mock Community	3003006inst1_gene_seq
+3003007inst1		3307.0	ZymoBIOMICS Mock Community	3003007inst1_gene_seq
+3003030inst1		41091.0	ZymoBIOMICS Mock Community	3003030inst1_gene_seq
+3003031inst1		41091.0	ZymoBIOMICS Mock Community	3003031inst1_gene_seq
+3003033inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	41487.0	ZymoBIOMICS Mock Community	3003033inst1_path_1_trimmed
+3003034inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	41487.0	ZymoBIOMICS Mock Community	3003034inst1_path_1_trimmed
+3003048inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	73138.0	ZymoBIOMICS Mock Community	3003048inst1_path_10
+3003059inst1		7203.0	ZymoBIOMICS Mock Community	3003059inst1_gene_seq
+3003063inst1		8460.0	ZymoBIOMICS Mock Community	3003063inst1_gene_seq
+3003064inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis group,Bacillus spizizenii	70712.0	ZymoBIOMICS Mock Community	3003064inst1_path_2
+3003324inst1		5253.0	ZymoBIOMICS Mock Community	3003324inst1_gene_seq
+3003548inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	75018.0	ZymoBIOMICS Mock Community	3003548inst1_path_19
+3003549inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	75018.0	ZymoBIOMICS Mock Community	3003549inst1_path_19
+3003550inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	75018.0	ZymoBIOMICS Mock Community	3003550inst1_path_19
+3003551inst1		9949.0	ZymoBIOMICS Mock Community	3003551inst1_gene_seq
+3003576inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	26411.0	ZymoBIOMICS Mock Community	3003576inst1_path_21_trimmed
+3003577inst1		17486.0	ZymoBIOMICS Mock Community	3003577inst1_gene_seq
+3003578inst1		10696.0	ZymoBIOMICS Mock Community	3003578inst1_gene_seq
+3003583inst1		23734.0	ZymoBIOMICS Mock Community	3003583inst1_gene_seq
+3003643inst1		33635.0	ZymoBIOMICS Mock Community	3003643inst1_gene_seq
+3003679inst1		31797.0	ZymoBIOMICS Mock Community	3003679inst1_gene_seq
+3003680inst1		31797.0	ZymoBIOMICS Mock Community	3003680inst1_gene_seq
+3003681inst1		31797.0	ZymoBIOMICS Mock Community	3003681inst1_gene_seq
+3003682inst1		21832.0	ZymoBIOMICS Mock Community	3003682inst1_gene_seq
+3003692inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	82101.0	ZymoBIOMICS Mock Community	3003692inst1_path_44_trimmed
+3003693inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	82095.0	ZymoBIOMICS Mock Community	3003693inst1_path_51_trimmed
+3003698inst1		16696.0	ZymoBIOMICS Mock Community	3003698inst1_gene_seq
+3003699inst1		16696.0	ZymoBIOMICS Mock Community	3003699inst1_gene_seq
+3003700inst1		16696.0	ZymoBIOMICS Mock Community	3003700inst1_gene_seq
+3003704inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	89036.0	ZymoBIOMICS Mock Community	3003704inst1_path_1
+3003705inst1		11622.0	ZymoBIOMICS Mock Community	3003705inst1_gene_seq
+3003770inst1		4497.0	ZymoBIOMICS Mock Community	3003770inst1_path_1
+3003801inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	7315.0	ZymoBIOMICS Mock Community	3003801inst1_path_128_trimmed
+3003838inst1		7778.0	ZymoBIOMICS Mock Community	3003838inst1_gene_seq
+3003841inst1		10310.0	ZymoBIOMICS Mock Community	3003841inst1_gene_seq
+3003843inst1		7877.0	ZymoBIOMICS Mock Community	3003843inst1_gene_seq
+3003948inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis	13105.0	ZymoBIOMICS Mock Community	3003948inst1_path_23_trimmed
+3003949inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis	10840.0	ZymoBIOMICS Mock Community	3003949inst1_path_1_trimmed
+3003950inst1		7953.0	ZymoBIOMICS Mock Community	3003950inst1_gene_seq
+3003952inst1		7818.0	ZymoBIOMICS Mock Community	3003952inst1_gene_seq
+3004038inst1		12765.0	ZymoBIOMICS Mock Community	3004038inst1_gene_seq
+3004042inst1		1277.0	ZymoBIOMICS Mock Community	3004042inst1_gene_seq
+3004043inst1		1277.0	ZymoBIOMICS Mock Community	3004043inst1_gene_seq
+3004047inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	37876.0	ZymoBIOMICS Mock Community	3004047inst1_path_15
+3004054inst1		22242.0	ZymoBIOMICS Mock Community	3004054inst1_gene_seq
+3004056inst1		21231.0	ZymoBIOMICS Mock Community	3004056inst1_gene_seq
+3004072inst1		27888.0	ZymoBIOMICS Mock Community	3004072inst1_gene_seq
+3004073inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	102092.0	ZymoBIOMICS Mock Community	3004073inst1_path_1
+3004074inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	10173.0	ZymoBIOMICS Mock Community	3004074inst1_path_1
+3004075inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	64288.0	ZymoBIOMICS Mock Community	3004075inst1_path_2
+3004077inst1		8340.0	ZymoBIOMICS Mock Community	3004077inst1_gene_seq
+3004107inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	122064.0	ZymoBIOMICS Mock Community	3004107inst1_path_3
+3004290inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	32136.0	ZymoBIOMICS Mock Community	3004290inst1_path_8
+3004476inst1		3594.0	ZymoBIOMICS Mock Community	3004476inst1_gene_seq
+3004541inst1		1284.0	ZymoBIOMICS Mock Community	3004541inst1_gene_seq
+3004572inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	46259.0	ZymoBIOMICS Mock Community	3004572inst1_path_1
+3004651inst1		6915.0	ZymoBIOMICS Mock Community	3004651inst1_gene_seq
+3004661inst1		12305.0	ZymoBIOMICS Mock Community	3004661inst1_gene_seq
+3004667inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	42501.0	ZymoBIOMICS Mock Community	3004667inst1_path_4
+3005040inst1		18093.0	ZymoBIOMICS Mock Community	3005040inst1_gene_seq
+3005044inst1		1144.0	ZymoBIOMICS Mock Community	3005044inst1_gene_seq
+3005047inst1		16040.0	ZymoBIOMICS Mock Community	3005047inst1_gene_seq
+3005059inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica	23896.0	ZymoBIOMICS Mock Community	3005059inst1_path_14
+3005063inst1		3956.0	ZymoBIOMICS Mock Community	3005063inst1_gene_seq
+3005064inst1		3956.0	ZymoBIOMICS Mock Community	3005064inst1_gene_seq
+3005067inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	43718.0	ZymoBIOMICS Mock Community	3005067inst1_path_2_trimmed
+3005068inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa group,Pseudomonas aeruginosa	43718.0	ZymoBIOMICS Mock Community	3005068inst1_path_2_trimmed
+3005069inst1		17415.0	ZymoBIOMICS Mock Community	3005069inst1_gene_seq
+3006800inst1		52749.0	ZymoBIOMICS Mock Community	3006800inst1_gene_seq
+3007010inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	31894.0	ZymoBIOMICS Mock Community	3007010inst1_path_10_trimmed
+3007012inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	46044.0	ZymoBIOMICS Mock Community	3007012inst1_path_4
+3007013inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	46044.0	ZymoBIOMICS Mock Community	3007013inst1_path_4
+3007015inst1		517.0	ZymoBIOMICS Mock Community	3007015inst1_gene_seq
+3007678inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis	47888.0	ZymoBIOMICS Mock Community	3007678inst1_path_13
+3007682inst1		17854.0	ZymoBIOMICS Mock Community	3007682inst1_gene_seq
+3008823inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	30656.0	ZymoBIOMICS Mock Community	3008823inst1_path_2

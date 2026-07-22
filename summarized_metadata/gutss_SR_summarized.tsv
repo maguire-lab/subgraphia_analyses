@@ -1,0 +1,101 @@
+ARO	tax_ID_names	path_length	dataset	path_id
+3000026inst1		2610.0	Simulated Gut	3000026inst1_gene_seq
+3000074inst1		866.0	Simulated Gut	3000074inst1_gene_seq
+3000179inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus	44043.0	Simulated Gut	3000179inst1_path_58
+3000180inst1		6075.0	Simulated Gut	3000180inst1_gene_seq
+3000186inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium	13529.0	Simulated Gut	3000186inst1_path_1
+3000190inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,[Clostridium] innocuum	50918.0	Simulated Gut	3000190inst1_path_33
+3000190inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia hydrogenotrophica	7322.0	Simulated Gut	3000190inst1_path_46
+3000190inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia luti	5769.0	Simulated Gut	3000190inst1_path_64
+3000190inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] torques	61970.0	Simulated Gut	3000190inst1_path_36
+3000191inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,Segatella copri	2047.0	Simulated Gut	3000191inst1_path_1
+3000194inst1		1967.0	Simulated Gut	3000194inst1_gene_seq
+3000195inst1		6075.0	Simulated Gut	3000195inst1_gene_seq
+3000196inst1		1973.0	Simulated Gut	3000196inst1_gene_seq
+3000198inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes	37574.0	Simulated Gut	3000198inst1_path_1
+3000198inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria welshimeri	9797.0	Simulated Gut	3000198inst1_path_257_trimmed
+3000205inst1		1755.0	Simulated Gut	3000205inst1_gene_seq
+3000206inst1		1745.0	Simulated Gut	3000206inst1_gene_seq
+3000237inst1		756.0	Simulated Gut	3000237inst1_gene_seq
+3000263inst1		1294.0	Simulated Gut	3000263inst1_gene_seq
+3000375inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota	1450.0	Simulated Gut	3000375inst1_path_19
+3000375inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Faecalibacterium,Faecalibacterium prausnitzii	6090.0	Simulated Gut	3000375inst1_path_14
+3000375inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,Coprococcus eutactus	2900.0	Simulated Gut	3000375inst1_path_18
+3000375inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,Mediterraneibacter faecis	3532.0	Simulated Gut	3000375inst1_path_22_trimmed
+3000412inst1		1034.0	Simulated Gut	3000412inst1_gene_seq
+3000421inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes	21778.0	Simulated Gut	3000421inst1_path_155_trimmed
+3000498inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales	5401.0	Simulated Gut	3000498inst1_path_21
+3000498inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis	36075.0	Simulated Gut	3000498inst1_path_38
+3000516inst1		1125.0	Simulated Gut	3000516inst1_gene_seq
+3000565inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	34687.0	Simulated Gut	3000565inst1_path_12_trimmed
+3000567inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,unclassified Clostridium,Clostridium sp. M62/1	7542.0	Simulated Gut	3000567inst1_path_66
+3000596inst1		3365.0	Simulated Gut	3000596inst1_gene_seq
+3000676inst1		1585.0	Simulated Gut	3000676inst1_gene_seq
+3000746inst1		1263.0	Simulated Gut	3000746inst1_gene_seq
+3000753inst1		8984.0	Simulated Gut	3000753inst1_gene_seq
+3000775inst1		5341.0	Simulated Gut	3000775inst1_gene_seq
+3000781inst1		9163.0	Simulated Gut	3000781inst1_gene_seq
+3000782inst1		9163.0	Simulated Gut	3000782inst1_gene_seq
+3000815inst1		20405.0	Simulated Gut	3000815inst1_gene_seq
+3000838inst1		19427.0	Simulated Gut	3000838inst1_gene_seq
+3000839inst1		19427.0	Simulated Gut	3000839inst1_gene_seq
+3000979inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli	4329.0	Simulated Gut	3000979inst1_path_1
+3001418inst1	root,cellular organisms,Bacteria,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii	26901.0	Simulated Gut	3001418inst1_path_2
+3001735inst1		877.0	Simulated Gut	3001735inst1_gene_seq
+3002556inst1		7967.0	Simulated Gut	3002556inst1_gene_seq
+3002597inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium	41842.0	Simulated Gut	3002597inst1_path_3_trimmed
+3002626inst1		1476.0	Simulated Gut	3002626inst1_gene_seq
+3002628inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium	4294.0	Simulated Gut	3002628inst1_path_25_trimmed
+3002629inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus	3242.0	Simulated Gut	3002629inst1_path_6
+3002647inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium	4294.0	Simulated Gut	3002647inst1_path_54_trimmed
+3002683inst1		900.0	Simulated Gut	3002683inst1_gene_seq
+3002688inst1		1627.0	Simulated Gut	3002688inst1_gene_seq
+3002819inst1		1553.0	Simulated Gut	3002819inst1_gene_seq
+3002836inst1		6147.0	Simulated Gut	3002836inst1_gene_seq
+3002865inst1		19427.0	Simulated Gut	3002865inst1_gene_seq
+3002867inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota	2281.0	Simulated Gut	3002867inst1_path_36
+3002867inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae	2488.0	Simulated Gut	3002867inst1_path_75
+3002867inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,[Clostridium] scindens	3286.0	Simulated Gut	3002867inst1_path_83_trimmed
+3002867inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,Lachnospira eligens	24758.0	Simulated Gut	3002867inst1_path_60
+3002897inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium	4294.0	Simulated Gut	3002897inst1_path_41_trimmed
+3002926inst1		6930.0	Simulated Gut	3002926inst1_gene_seq
+3003003inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis	27843.5	Simulated Gut	3003003inst1_path_219
+3003003inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides hominis	27845.5	Simulated Gut	3003003inst1_path_197
+3003048inst1		1546.0	Simulated Gut	3003048inst1_gene_seq
+3003097inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis	27843.5	Simulated Gut	3003097inst1_path_219
+3003097inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides hominis	27361.0	Simulated Gut	3003097inst1_path_198
+3003206inst1		6147.0	Simulated Gut	3003206inst1_gene_seq
+3003549inst1		1079.0	Simulated Gut	3003549inst1_gene_seq
+3003730inst1	root,cellular organisms,Bacteria,Bacillati,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum	55992.0	Simulated Gut	3003730inst1_path_1
+3003770inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes	31324.0	Simulated Gut	3003770inst1_path_1
+3003835inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile	292678.0	Simulated Gut	3003835inst1_path_145_trimmed
+3003843inst1		888.0	Simulated Gut	3003843inst1_gene_seq
+3003948inst1		6316.0	Simulated Gut	3003948inst1_gene_seq
+3003952inst1		892.0	Simulated Gut	3003952inst1_gene_seq
+3003954inst1		10914.0	Simulated Gut	3003954inst1_gene_seq
+3004043inst1		652.0	Simulated Gut	3004043inst1_gene_seq
+3004047inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	90389.0	Simulated Gut	3004047inst1_path_4
+3004191inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecium	41842.0	Simulated Gut	3004191inst1_path_3_trimmed
+3004442inst1		1960.0	Simulated Gut	3004442inst1_gene_seq
+3004480inst1	root,cellular organisms,Bacteria,Bacillati,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium adolescentis	10231.0	Simulated Gut	3004480inst1_path_1
+3004572inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	20694.0	Simulated Gut	3004572inst1_path_12
+3004651inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria welshimeri	20322.0	Simulated Gut	3004651inst1_path_101_trimmed
+3004659inst1		983.0	Simulated Gut	3004659inst1_gene_seq
+3004661inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	24965.0	Simulated Gut	3004661inst1_path_18_trimmed
+3004667inst1		20405.0	Simulated Gut	3004667inst1_gene_seq
+3006224inst1		6529.0	Simulated Gut	3006224inst1_gene_seq
+3006905inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile	286562.0	Simulated Gut	3006905inst1_path_103_trimmed
+3006919inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis	38168.0	Simulated Gut	3006919inst1_path_96_trimmed
+3007010inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	32178.0	Simulated Gut	3007010inst1_path_1
+3007012inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	20694.0	Simulated Gut	3007012inst1_path_12
+3007013inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus	20694.0	Simulated Gut	3007013inst1_path_12
+3007047inst1		1393.0	Simulated Gut	3007047inst1_gene_seq
+3007107inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis	16177.0	Simulated Gut	3007107inst1_path_24
+3007107inst1	root,cellular organisms,Bacteria,Pseudomonadati,FCB group,Bacteroidota/Chlorobiota group,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides hominis	12876.5	Simulated Gut	3007107inst1_path_5
+3007119inst1		1938.0	Simulated Gut	3007119inst1_gene_seq
+3007122inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia hydrogenotrophica	7322.0	Simulated Gut	3007122inst1_path_46
+3007122inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] torques	61970.0	Simulated Gut	3007122inst1_path_36
+3007123inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Megasphaera,Megasphaera stantonii	4614.0	Simulated Gut	3007123inst1_path_10_trimmed
+3007637inst1	root,cellular organisms,Bacteria,Bacillati,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile	237530.0	Simulated Gut	3007637inst1_path_162_trimmed
+3007671inst1		58028.0	Simulated Gut	3007671inst1_gene_seq
+3008521inst1		7395.0	Simulated Gut	3008521inst1_gene_seq
