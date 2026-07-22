@@ -10,3 +10,9 @@ The following contains the code used to simulate the data and perform the analys
 - See `datasets/README.md` for descriptions of the datasets used to evaluate SubGraphia.
 
 ## Length and correctness - figure 2
+- Panel A: genomic content length distribution
+    - Summarized metadata is used to account for cases where multiple and/or many contexts are extracted all assigned to the same taxon. It is unclear which is correct, the median is chosen for future analyses. 
+- Panel B: correctness of extracted contexts
+    - Evaluated using the Zol suite of tools, specifically `fai` to compare annotations of the extracted contexts to the ground truth reference genomes. 
+        - See `fai_correctness/fai_synteny_corr.sh`
+        - See `fai_correctness/bakta_subgraphia.sh` for the Bakta annotation of the extracted contexts.
