@@ -26,5 +26,13 @@ The following contains the code used to simulate the data and perform the analys
 - Done using the complete wastewater dataset to avoid ambiguity caused by fragmented assemblies. 
 - MGEs identified using Mob recon v3.1.9, sequences extracted using samtools v1.2.0, alignments with minimap2 v2.28
 
-## Clinker vizualizations - figure 4
+## Clinker visualizations - figure 4
 - Select genomic contexts visualized via clinker v0.0.31 and bandage v0.8.1
+
+## Real world wastewater dataset - figure S5
+- See `real_metagenome_figS5`
+- An example of how SubGraphia can be used in conjunction with other AMR profiling tools to analyse real world data and identify genomic contexts of AMR genes otherwise missed by other tools.
+
+## Benchmarking - figure 5
+- Benchmarking SubGraphia against ARGcontextprofiler and Sarand
+- Datasets: ZymoBIOMICs mock community, and simulated wastewater metagenome
