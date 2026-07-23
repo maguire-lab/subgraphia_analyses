@@ -1,5 +1,6 @@
 # Repository Describing the SubGraphia Evaluation and Benchmarking
 [![DOI](https://img.shields.io/badge/DOI-PUTDOIHERE-blue)]()
+
 See [SubGraphia](https://github.com/maguire-lab/SubGraphia) for the main repository.
 
 This repository accompanies the paper: Subgraphia: Improving Metagenomic Antimicrobial Resistance Gene Detection and Genomic Context Characterisation. 
@@ -24,3 +25,6 @@ The following contains the code used to simulate the data and perform the analys
 - Aim to investigate if the filtration steps are working as intended and if error is biased towards certain AMR genes of MGEs
 - Done using the complete wastewater dataset to avoid ambiguity caused by fragmented assemblies. 
 - MGEs identified using Mob recon v3.1.9, sequences extracted using samtools v1.2.0, alignments with minimap2 v2.28
+
+## Clinker vizualizations - figure 4
+- Select genomic contexts visualized via clinker v0.0.31 and bandage v0.8.1
