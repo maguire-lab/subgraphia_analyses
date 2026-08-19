@@ -11,6 +11,9 @@ The following contains the code used to simulate the data and perform the analys
 
 - See `datasets/README.md` for descriptions of the datasets used to evaluate SubGraphia.
 
+## Pipeline visualization - figure 1
+![Pipeline overview](figures_tables/figure_1.svg)
+
 ## Length and correctness - figure 2
 - See `length_correctness_fig2/`
 - Panel A: genomic content length distribution
