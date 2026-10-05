@@ -3,6 +3,7 @@
 
 | Metagenome          | Origin    | References |  Reads | Accession   |
 | ------------------- | --------- | --------- | ----- | ----------- |
+| MMP                 | simulated |         7 |  20.0M | NA          |
 | ZymoBIOMICS         | mock      |         10 |   8.7M | ERR2984773  |
 | Gut                 | simulated |         76 |  30.0M | NA          |
 | Environmental       | mock      |        227 | 286.8M | ERR5321934  |
@@ -10,6 +11,13 @@
 | Wastewater          | simulated |        903 |  26.0M | NA          |
 | Soil                | simulated |       6104 |  60.0M | NA          |
 | Halifax wastewater  | real      |         NA |  40.3M | ERR14173593 |
+
+## MMP
+- Simulated metagenome based on 7 isolates from the PATRIC database.
+- Original simulation used to evaluate MetaMobilePicker.
+- https://metamobilepicker.readthedocs.io/en/latest/
+- Reference accessions: `MMP_reference_accns.txt`
+
 
 ## ZymoBIOMICS Microbial Community Standard
 - 8 bacteria 2 yeast 
